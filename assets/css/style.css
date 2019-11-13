@@ -560,15 +560,17 @@ textarea.form-control {
 	position: relative;
 }
 
-/*.side-image {
+.side-image {
 	position: absolute;
-	background: url(../images/ann.jpg) scroll center no-repeat;
+	background: url(../images/aboutme1.png) scroll center no-repeat;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
 		 -o-background-size: cover;
 			background-size: cover;
 	height: 100%;
-}*/
+	width: 50%
+	/*padding-bottom:10px; */
+}
 
 .side-image-text {
 	background: #fff;
