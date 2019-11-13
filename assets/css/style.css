@@ -496,6 +496,7 @@ textarea.form-control {
 		 -o-transform: translate(0%, -50%);
 			transform: translate(0%, -50%);
 	padding: 0 15px;
+
 }
 
 .hello,
@@ -1248,7 +1249,7 @@ font-size: 14px;
 	color: #fff;
 }
 #loading{
-	background-color: #d64700;
+	background-color: #49E0EA;
 	height: 100%;
 	width: 100%;
 	position: fixed;
@@ -1275,7 +1276,7 @@ font-size: 14px;
 	width: 50px;
 	height: 8px;
 	margin-bottom:15px;
-	background-color: #FFF;
+	background-color: #49E0EA;
 	-webkit-animation: animate 0.8s infinite;
 	animation: animate 0.8s infinite;
 	}
