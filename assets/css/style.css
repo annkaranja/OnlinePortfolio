@@ -563,7 +563,7 @@ textarea.form-control {
 
 .side-image {
 	position: absolute;
-	background: url(../images/aboutme1.png) scroll center no-repeat;
+	/*background: url(../images/aboutme1.png) scroll center no-repeat;*/
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
 		 -o-background-size: cover;
@@ -925,7 +925,7 @@ figure {
 	-webkit-border-radius: 50%;
 	   -moz-border-radius: 50%;
 			border-radius: 50%;
-	font-size: 14px;
+	font-size: 18px;
 	color: #49E0EA;
 }
 
